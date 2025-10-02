@@ -4,20 +4,82 @@
 PbD is now a legal requirement in many jurisdictions (including under GDPR and anticipated Canadian reforms like Bill C-27), making it a foundational compliance skill.
 
 ---
-# Privacy by Design (PbD) Project
-
-This folder contains a practical guide and example demonstrating how **Privacy by Design** principles can be embedded into business processes and technology.
-
----
-
-## Overview
-Privacy by Design (PbD) is about embedding privacy into systems and workflows **from the start**—not as an afterthought. This project shows how I would approach applying PbD in a compliance or operational context.
-
----
 
 ## What’s Inside
-- **privacy-by-design-guide.md** → An overview of the 7 principles of PbD with practical applications in Canadian compliance (e.g., PIPEDA) and global contexts (e.g., GDPR).
-- **sample-use-case.pdf** *(optional)* → A fictional scenario (e.g., implementing new HR software) showing how PbD could be applied in practice.
+-  → 7 principles of PbD with practical applications in Canadian compliance (e.g., PIPEDA) and global contexts (e.g., GDPR).
+- → A scenario showing PbD could be applied in practice 
+
+# Privacy by Design – HealthTrack App
+
+## 📌 Introduction
+This document demonstrates how **Privacy by Design (PbD)** is applied to the fictional **HealthTrack App**, a Canadian mobile fitness and diet tracker.  Since HealthTrack processes **personal health information** (sensitive data under PIPEDA), PbD principles must be embedded at every stage of the product lifecycle.
+
+---
+
+## ⚙️ The 7 Foundational Principles of PbD Applied
+
+### 1. Proactive, not Reactive
+- Privacy risks identified **before launch** through a [Privacy Impact Assessment (PIA)](./privacy-impact-assessment-pia/README.md)  
+- Regular privacy reviews scheduled at each product sprint.  
+✅ *Outcome:* Issues like over-collection of data flagged early, saving redesign costs.
+
+---
+
+### 2. Privacy as the Default
+- HealthTrack collects only what’s strictly necessary (steps, calories).  
+- Extra features (GPS location, photo uploads) are **OFF by default** until the user opts in.  
+✅ *Outcome:* Users are protected even if they take no action.
+
+---
+
+### 3. Privacy Embedded into Design
+- Privacy team sits in on product design sprints.  
+- Data minimization and retention policies are documented alongside technical specs.  
+✅ *Outcome:* Privacy becomes a design decision, not an afterthought.
+
+---
+
+### 4. Full Functionality — Positive-Sum, not Zero-Sum
+- Users who decline optional features (like GPS tracking) can still enjoy full app functionality.  
+- Privacy choices enhance trust without limiting usability.  
+✅ *Outcome:* Business value and privacy coexist.
+
+---
+
+### 5. End-to-End Security — Lifecycle Protection
+- All personal data encrypted at rest and in transit.  
+- Data auto-deletes after 12 months of inactivity.  
+- Access controls ensure only authorized staff see anonymized datasets.  
+✅ *Outcome:* Data protected from collection to disposal.
+
+---
+
+### 6. Visibility and Transparency
+- In-app prompts explain why data is collected at the moment it’s needed.  
+- Privacy policy written in **plain language** (no legal jargon).  
+✅ *Outcome:* Users know what’s happening with their data — no surprises.
+
+---
+
+### 7. Respect for User Privacy
+- Users can **export, correct, or delete their data** at any time.  
+- “Download My Data” and “Delete Account” options built into the app.  
+✅ *Outcome:* Aligns with PIPEDA’s access and correction rights.
+
+---
+
+## 🛠️ Supporting Deliverables
+This guide is supported by additional artifacts in this repo:
+- **`pia-template.docx`** → Privacy Impact Assessment conducted before launch.  
+- **`data-flow-diagram.png`** → Map of how HealthTrack data moves and where it’s stored.  
+- **`mock-screenshots/`** → Settings, consent prompts, and risk matrix for visual demonstration.
+
+---
+
+
+---
+
+⚡ *Built as part of the Privacy by Design case study by [LA-cmd-prompt](https://github.com/LA-cmd-prompt).*
 
 ---
 
@@ -29,4 +91,4 @@ Privacy by Design (PbD) is about embedding privacy into systems and workflows **
 ---
 
 ## Next Steps
-This PbD example ties into my **DPIA** and **PIA** projects, which show how to operationalize privacy through structured risk assessments.  
+This PbD example ties into my **DPIA** and **PIA** projects, which show how I operationalize privacy through structured risk assessments.  
