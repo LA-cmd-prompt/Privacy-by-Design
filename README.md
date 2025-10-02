@@ -22,28 +22,28 @@ This document demonstrates how **Privacy by Design (PbD)** is applied to the fic
 - Privacy risks identified **before launch** through a [Privacy Impact Assessment (PIA)](./Privacy-Impact-Assessment/blob/main/README.md)
   
 - Regular privacy reviews scheduled at each product sprint.  
-✅ *Outcome:* Issues like over-collection of data flagged early, saving redesign costs.
+  *Outcome:* Issues like over-collection of data flagged early, saving redesign costs.
 
 ---
 
 ### 2. Privacy as the Default
 - HealthTrack collects only what’s strictly necessary (steps, calories).  
 - Extra features (GPS location, photo uploads) are **OFF by default** until the user opts in.  
-✅ *Outcome:* Users are protected even if they take no action.
+  *Outcome:* Users are protected even if they take no action.
 
 ---
 
 ### 3. Privacy Embedded into Design
 - Privacy team sits in on product design sprints.  
 - Data minimization and retention policies are documented alongside technical specs.  
-✅ *Outcome:* Privacy becomes a design decision, not an afterthought.
+  *Outcome:* Privacy becomes a design decision, not an afterthought.
 
 ---
 
 ### 4. Full Functionality — Positive-Sum, not Zero-Sum
 - Users who decline optional features (like GPS tracking) can still enjoy full app functionality.  
 - Privacy choices enhance trust without limiting usability.  
-✅ *Outcome:* Business value and privacy coexist.
+  *Outcome:* Business value and privacy coexist.
 
 ---
 
@@ -51,21 +51,21 @@ This document demonstrates how **Privacy by Design (PbD)** is applied to the fic
 - All personal data encrypted at rest and in transit.  
 - Data auto-deletes after 12 months of inactivity.  
 - Access controls ensure only authorized staff see anonymized datasets.  
-✅ *Outcome:* Data protected from collection to disposal.
+  *Outcome:* Data protected from collection to disposal.
 
 ---
 
 ### 6. Visibility and Transparency
 - In-app prompts explain why data is collected at the moment it’s needed.  
 - Privacy policy written in **plain language** (no legal jargon).  
-✅ *Outcome:* Users know what’s happening with their data — no surprises.
+  *Outcome:* Users know what’s happening with their data — no surprises.
 
 ---
 
 ### 7. Respect for User Privacy
 - Users can **export, correct, or delete their data** at any time.  
 - “Download My Data” and “Delete Account” options built into the app.  
-✅ *Outcome:* Aligns with PIPEDA’s access and correction rights.
+  *Outcome:* Aligns with PIPEDA’s access and correction rights.
 
 ---
 
