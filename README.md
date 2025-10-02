@@ -11,7 +11,7 @@ PbD is now a legal requirement in many jurisdictions (including under GDPR and a
 
 # Privacy by Design – HealthTrack App
 
-## 📌 Introduction
+## Introduction
 This document demonstrates how **Privacy by Design (PbD)** is applied to the fictional **HealthTrack App**, a Canadian mobile fitness and diet tracker.  Since HealthTrack processes **personal health information** (sensitive data under PIPEDA), PbD principles must be embedded at every stage of the product lifecycle.
 
 ---
@@ -69,7 +69,7 @@ This document demonstrates how **Privacy by Design (PbD)** is applied to the fic
 
 ---
 
-## 🛠️ Supporting Deliverables
+## Supporting Deliverables
 This guide is supported by additional artifacts in this repo:
 - **`pia-template.docx`** → Privacy Impact Assessment conducted before launch.  
 - **`data-flow-diagram.png`** → Map of how HealthTrack data moves and where it’s stored.  
