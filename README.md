@@ -19,7 +19,7 @@ This document demonstrates how **Privacy by Design (PbD)** is applied to the fic
 ## ⚙️ The 7 Foundational Principles of PbD Applied
 
 ### 1. Proactive, not Reactive
-- Privacy risks identified **before launch** through a [Privacy Impact Assessment (PIA)](https://github.com/LA-cmd-prompt/Privacy-Impact-Assessment)
+- Privacy risks identified **before launch** through a [Privacy Impact Assessment (PIA)](./LA-cmd-prompt/Privacy-Impact-Assessment)
   
 - Regular privacy reviews scheduled at each product sprint.  
   *Outcome:* Issues like over-collection of data flagged early, saving redesign costs.
