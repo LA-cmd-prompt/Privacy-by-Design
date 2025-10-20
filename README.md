@@ -72,7 +72,7 @@ This document demonstrates how **Privacy by Design (PbD)** is applied to the fic
 ## Supporting Deliverables
 This guide is supported by additional artifacts in this repo:
 - **`pia-template.docx`** → Privacy Impact Assessment conducted before launch.  
-- **`data-flow-diagram.png`** → Map of how HealthTrack data moves and where it’s stored.  
+- **`data-flow-diagram.png`** → Map of how HealthTrack data moves and where it’s stored [(https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/privacy-data-flow-diagram.jpeg)]
 - **`mock-screenshots/`** → Settings, consent prompts, and risk matrix for visual demonstration.
 
 ---
