@@ -88,7 +88,7 @@ This guide is supported by additional artifacts in this repo:
 - Use of new technologies (AI, facial recognition)
 - Cross-border data transfers
 
-## 📚 Additional Resources
+## Additional Resources
 
 - [PIPEDA Overview](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/)
 - [GDPR DPIA Guidelines](https://gdpr.eu/data-protection-impact-assessment-template/)
