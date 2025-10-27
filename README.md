@@ -77,7 +77,23 @@ This guide is supported by additional artifacts in this repo:
 - **`mock-screenshots/`** → Settings, consent prompts, and risk matrix for visual demonstration.
 
 ---
+### When to Conduct a PIA
 
+✅ **Always conduct a PIA for:**
+- New systems that process personal data
+- Significant changes to existing systems
+- High-risk data processing activities
+- Processing of sensitive data (health, financial, biometric)
+- Large-scale data processing operations
+- Use of new technologies (AI, facial recognition)
+- Cross-border data transfers
+
+## 📚 Additional Resources
+
+- [PIPEDA Overview](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/)
+- [GDPR DPIA Guidelines](https://gdpr.eu/data-protection-impact-assessment-template/)
+- [ISO 27001 Standards](https://www.iso.org/isoiec-27001-information-security.html)
+- [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
 
 ---
 
