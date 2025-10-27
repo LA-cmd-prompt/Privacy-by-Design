@@ -12,7 +12,7 @@ PbD is now a legal requirement in many jurisdictions (including under GDPR and a
 # Privacy by Design – HealthTrack App
 
 ## Introduction
-This document demonstrates how **Privacy by Design (PbD)** is applied to the fictional **HealthTrack App**, a Canadian mobile fitness and diet tracker.  Since HealthTrack processes **personal health information** (sensitive data under PIPEDA), PbD principles must be embedded at every stage of the product lifecycle.
+ **Privacy by Design (PbD)** is applied to the fictional **HealthTrack App**, a Canadian mobile fitness and diet tracker.  Since HealthTrack processes **personal health information** (sensitive data under PIPEDA), PbD principles must be embedded at every stage of the product lifecycle.
 
 ---
 
@@ -79,7 +79,7 @@ This guide is supported by additional artifacts in this repo:
 ---
 ### When to Conduct a PIA
 
-✅ **Always conduct a PIA for:**
+ **PIA must be conducted for:**
 - New systems that process personal data
 - Significant changes to existing systems
 - High-risk data processing activities
