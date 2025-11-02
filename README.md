@@ -96,17 +96,12 @@ This guide is supported by additional artifacts in this repo:
 - [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
 
 ---
+## Next Steps
+This PbD example ties into my **DPIA** and **PIA** projects, which show how I operationalize privacy through structured risk assessments.  
+
+---
 
 ⚡ *Built as part of the Privacy by Design case study by [LA-cmd-prompt](https://github.com/LA-cmd-prompt).*
 
 ---
 
-## Skills Demonstrated
-- Translating privacy principles into **operational strategies**  
-- Applying PbD to **Canadian compliance frameworks (PIPEDA, CASL)**  
-- Designing processes that integrate privacy risk management into day-to-day operations  
-
----
-
-## Next Steps
-This PbD example ties into my **DPIA** and **PIA** projects, which show how I operationalize privacy through structured risk assessments.  
