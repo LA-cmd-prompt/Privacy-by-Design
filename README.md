@@ -16,7 +16,7 @@ PbD is now a legal requirement in many jurisdictions (including under GDPR and a
 
 ---
 
-## ⚙️ The 7 Foundational Principles of PbD Applied
+## The 7 Foundational Principles of PbD Applied
 
 ### 1. Proactive, not Reactive
 - Privacy risks identified **before launch** through a [Privacy Impact Assessment (PIA)](https://github.com/LA-cmd-prompt/Privacy-Impact-Assessment)
