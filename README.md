@@ -41,7 +41,7 @@ A Canadian health-tech startup applied PbD principles before launch. Here's what
 Total First-Year ROI: $1.2M+ value from $8K investment + 3-week timeline
 
 ## And the competitor
-##The competitor who skipped PbD? Spent 6 months and $300,000 rebuilding their data architecture after investors flagged privacy gaps during Series A. Lost a $400,000 enterprise contract due to failed security review.
+The competitor who skipped PbD? Spent 6 months and $300,000 rebuilding their data architecture after investors flagged privacy gaps during Series A. Lost a $400,000 enterprise contract due to failed security review.
 
 ---
 
