@@ -4,7 +4,7 @@
 PbD is now a legal requirement in many jurisdictions (including under GDPR and anticipated Canadian reforms like Bill C-27), making it a foundational compliance skill.
 
 ---
-Real-World Impact: HealthTrack App
+## Real-World Impact: HealthTrack App
 A Canadian health-tech startup applied PbD principles before launch. Here's what happened:
 
 12-Month Business Results:
@@ -39,18 +39,20 @@ A Canadian health-tech startup applied PbD principles before launch. Here's what
 </tbody>
 </table>
 Total First-Year ROI: $1.2M+ value from $8K investment + 3-week timeline
-The competitor who skipped PbD? Spent 6 months and $300,000 rebuilding their data architecture after investors flagged privacy gaps during Series A. Lost a $400,000 enterprise contract due to failed security review.
+
+## And the competitor
+##The competitor who skipped PbD? Spent 6 months and $300,000 rebuilding their data architecture after investors flagged privacy gaps during Series A. Lost a $400,000 enterprise contract due to failed security review.
 
 ---
 
-## What’s Inside
--  → 7 principles of PbD with practical applications in Canadian compliance (e.g., PIPEDA) and global contexts (e.g., GDPR).
-- → A scenario showing PbD could be applied in practice 
+## What HealthTrack App did
+-  → Applied 7 principles of PbD with practical applications in Canadian compliance (e.g., PIPEDA) and global contexts (e.g., GDPR).
+
 
 # Privacy by Design – HealthTrack App
 
 ## Introduction
- **Privacy by Design (PbD)** is applied to the fictional **HealthTrack App**, a Canadian mobile fitness and diet tracker.  Since HealthTrack processes **personal health information** (sensitive data under PIPEDA), PbD principles must be embedded at every stage of the product lifecycle.
+ **Privacy by Design (PbD)** is applied to  **HealthTrack App**, a Canadian mobile fitness and diet tracker.  Since HealthTrack processes **personal health information** (sensitive data under PIPEDA), PbD principles must be embedded at every stage of the product lifecycle.
 
 ---
 
