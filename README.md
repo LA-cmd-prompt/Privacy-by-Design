@@ -22,7 +22,7 @@ A Canadian health-tech startup applied PbD principles before launch. Here's what
   </tr>
   <tr>
     <td>Failed enterprise security review</td>
-    <td>contract within a shorter time-frame vs. typical 6-8 weeks</td>
+    <td>Contract won within a shorter time-frame vs. typical 6-8 weeks</td>
   </tr>
   <tr>
     <td>Series A due diligence delays</td>
