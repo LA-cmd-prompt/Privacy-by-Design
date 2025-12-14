@@ -18,11 +18,11 @@ A Canadian health-tech startup applied PbD principles before launch. Here's what
 <tbody>
   <tr>
     <td>Post-launch privacy redesign</td>
-    <td>$300,000 saved</td>
+    <td>Thousands of money saved</td>
   </tr>
   <tr>
     <td>Failed enterprise security review</td>
-    <td>$250,000 contract won in 2 weeks vs. typical 6-8 weeks</td>
+    <td>contract within a shorter time-frame vs. typical 6-8 weeks</td>
   </tr>
   <tr>
     <td>Series A due diligence delays</td>
