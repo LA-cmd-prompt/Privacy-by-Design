@@ -46,7 +46,7 @@ The competitor who skipped PbD? Spent 6 months and $300,000 rebuilding their dat
 ---
 
 ## What HealthTrack App did
--  → Applied 7 principles of PbD with practical applications in Canadian compliance (e.g., PIPEDA) and global contexts (e.g., GDPR).
+-  Applied 7 principles of PbD with practical applications in Canadian compliance (e.g., PIPEDA) and global contexts (e.g., GDPR).
 
 
 # Privacy by Design – HealthTrack App
